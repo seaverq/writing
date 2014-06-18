@@ -17,10 +17,7 @@ I have a lot of ideas about design about art about website or something. BTW, my
 
 Back to the topic, I known this website, Github, for a while, like couple of years. I know its a heaven for coders in a way if i could say this. Today I read an article named 6 Reasons Why You’ll Never Learn to Code by Chris Castiglione. After read this, i asked myself why i stop learning code coz i really tried couple of times? Like Chris said in his article, I should stay in my motivated, but I’m not :( So I have thinking all over again and again. Well… I have ideas of a lot of fields. I known coding could help a lot on my interests. I’m fascinated about code can be transform to useful function or beautiful layout.
 BUT, every time I open a coding book… damn! I don’t even want to start to read through. one of the reasons, besides I’m lazy, the most important one, is English is not my native language. I believe that my English skill is okay at least but for coding… you guys known that… well… maybe you don’t know…
-
-  
-
-
+Anyway,
 
 My wishes
 =======

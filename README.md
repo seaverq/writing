@@ -5,7 +5,7 @@ My ides are
 =======
 1. do anything i can on this but not for coding
 2. use github as a writing (not coding) platform
-2. Im not sure it could work like this but the idea is useing collaborate function to improve my English skill (hope you guys support me on this of course).
+2. Im not sure it could work like this but the idea is useing collaborate function to improve my English skill (hope you guys support me on this of course). So feel free to correct my English.
 
 The reason Im here
 =======

@@ -1,19 +1,17 @@
-The thing I'm working on recently 
-
+#The thing I'm working on recently 
+=======
 1. A novel
 In Chinese, Named *Story Teller* (temporarily).
 2. A Photo Album
 The pictures I took in Europe and try to write some words for each picture.
 
-=======
-
-My ides are
+#My ides are
 =======
 1. do anything i can on this but not for coding
 2. use Github as a writing (not coding) platform
 3. Im not sure it could work like this but the idea is using collaborate function to improve my English skill (hope you guys support me on this of course). So feel free to correct my English.
 
-The reason Im here
+#The reason Im here
 =======
 Maybe i have a different way to understand how it works of this website.
 
@@ -28,7 +26,7 @@ Anyway, I don’t think I’m that into coding thing too much, at least for now.
 Here, the community, full of smart guys; the collaborate function, make people focus on the thing they really care and willing to deal with.
 Communication and Collaboration for same goal and pure interesting. This is the most important part of Github I think and I like.
 
-Why writing
+#Why writing
 =======
 Why not? i didn’t found any reference that only allowed coding thing on this website, did you?
 
@@ -36,7 +34,7 @@ And for me, there is not too big difference between coding and writing. Both of 
 
 So I’m gonna give a try on this. Do something here but nothing about coding.   
 
-My wishes
+#My wishes
 =======
 1. write something here, maybe the novel i always want to write.
 2. I wish someone could join me. Tell me their stories and I will collect them.

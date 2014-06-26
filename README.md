@@ -1,9 +1,11 @@
 #The thing I'm working on recently 
 =======
 ####A novel  
-In Chinese, Named *Story Teller* (temporarily).
+In Chinese, Named *Story Teller* (temporarily).  
+You can find it in my another repository named *Story-Teller*
 ####A Photo Album  
-The pictures I took in Europe and try to write some words for each picture.
+The pictures I took in Europe and try to write some words for each picture.  
+You cannot find anything about it on my GitHub coz I will do it on my website [NiHao](http://nihao.se)
 
 #My ides are
 =======

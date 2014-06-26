@@ -1,11 +1,8 @@
 #The thing I'm working on recently 
 =======
-1. A novel
-
+####A novel  
 In Chinese, Named *Story Teller* (temporarily).
-
-2. A Photo Album
-
+####A Photo Album  
 The pictures I took in Europe and try to write some words for each picture.
 
 #My ides are

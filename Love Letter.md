@@ -4,7 +4,7 @@ I want to write you into my poetry but no such a word could deserve you.
   
 I am the earth.  
 You are the sun.  
-No matter how fast I run I run just follow you all around.  
+No matter how fast I run, the path just follow you all around.  
   
 I am a sailing ship.  
 You are the wind.  

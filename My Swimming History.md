@@ -1,0 +1,1 @@
+I got a very bad memory of swimming when I was about 5. Since then I just avoid anything about swimming coz I'm afraid about it. Actually I tried once maybe two times, up to three times. But I cannot enjoy it. The pool full of water and my head full of fears.
